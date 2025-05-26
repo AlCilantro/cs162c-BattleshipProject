@@ -6,7 +6,7 @@
 
 using namespace std;
 int main() {
-    cout << "       Battleship! Take out the enemy CPU to win.\n"
+    cout << "      Battleship! Take out the enemy CPU to win.\n"
      << "Game Instructions: There is a 10X10 Grid for each player.\n"
      << "You can see your ships; and the misses or hits on the CPU's Board. "
      << "You will be given five ships\n Carrier: 5 Squares\n Battleship: 4 Squares\n"
